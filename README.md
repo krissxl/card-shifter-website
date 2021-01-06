@@ -1,5 +1,3 @@
-# card-shifter
-
 ## Project setup
 ```
 npm install
